@@ -20,7 +20,7 @@ class FooterApp extends HTMLElement {
       <footer>
         © 2025 Todos los derechos reservados.
         <br>
-        <a href="https://github.com/" target="_blank">GitHub</a> |
+        <a href="https://github.com/Sebas262002/Laboratorio_2-Lech-n-Kevin.git" target="_blank">GitHub</a> |
         <a href="https://linkedin.com/" target="_blank">LinkedIn</a>
       </footer>
     `;
